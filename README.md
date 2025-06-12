@@ -1,39 +1,48 @@
-
 <!-- Retro Style GitHub README by CharlyLizard -->
 
 <div align="center">
-  <h1>👾 Carlos Martín Salvatierra 👾</h1>
-  <h3>FullStack Web Developer · Fan del código y los videojuegos retro</h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ASP.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  </p>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140" alt="Retro Computer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=👾+Carlos+Mart%C3%ADn+Salvatierra+👾;FullStack+Web+Developer;Retro+Games+Lover+%26+Code+Wizard" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:39ff14&height=20&section=header"/>
 </div>
 
-<hr>
+<pre>
+░█████╗░██╗░░░██╗██╗░░░░░██╗░░░░░██╗██████╗░██╗░░░░░██╗██████╗░
+██╔══██╗██║░░░██║██║░░░░░██║░░░░░██║██╔══██╗██║░░░░░██║██╔══██╗
+██║░░██║██║░░░██║██║░░░░░██║░░░░░██║██████╦╝██║░░░░░██║██████╦╝
+██║░░██║██║░░░██║██║░░░░░██║░░░░░██║██╔══██╗██║░░░░░██║██╔══██╗
+╚█████╔╝╚██████╔╝███████╗███████╗██║██████╦╝███████╗██║██████╦╝
+░╚════╝░░╚═════╝░╚══════╝╚══════╝╚═╝╚═════╝░╚══════╝╚═╝╚═════╝░
+</pre>
 
-<h2>💾 Sobre mí</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
+</div>
 
-<p>🧑‍💻 Soy Carlos Martín Salvatierra, desarrollador web <strong>FullStack Junior</strong> recién egresado del <strong>IES Alonso de Avellaneda</strong>.</p>
-<p>🎮 Gamer desde siempre, desarrollador por pasión. Me encanta crear experiencias digitales útiles y con estilo.</p>
-<p>Me especializo en construir <strong>aplicaciones web modernas</strong> con un toque personal y retro. Desde la arquitectura hasta la interfaz, cuido cada detalle como si fuera el nivel final de un videojuego.</p>
+---
 
-<h2>🛠️ Tecnologías que uso</h2>
+<h2 align="center">💾 Sobre mí</h2>
 
-<ul>
-  <li><strong>Frontend:</strong> React, Angular, Blazor, Astro, JavaScript, TypeScript</li>
-  <li><strong>Backend:</strong> Node.js, ASP.NET Core, Java, Spring Boot</li>
-  <li><strong>Otros:</strong> Firebase, SQL, MongoDB (aprendiendo)</li>
-</ul>
+<pre>
+🧑‍💻 FullStack Junior | IES Alonso de Avellaneda
+🎮 Gamer de corazón, dev por pasión.
+🕹️ Me flipa crear apps web con alma retro.
+</pre>
 
-<h2>🕹️ Mis valores como desarrollador</h2>
+---
+
+<h2 align="center">🛠️ Tecnologías que uso</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,blazor,nodejs,dotnet,java,spring,firebase,typescript,javascript,sql,mongodb" />
+</p>
+
+---
+
+<h2 align="center">🕹️ Mis valores como desarrollador</h2>
 
 <ul>
   <li>🎯 Código limpio y mantenible</li>
@@ -42,27 +51,29 @@
   <li>🤝 Trabajo en equipo</li>
 </ul>
 
-<h2>🧙 Terminal Retro</h2>
+<h2 align="center">🧙 Terminal Retro</h2>
 
 <pre>
-CharlyLizard@devstation:~$ ./launch.sh
->> Loading Astro... ✔
->> Bootstrapping Spring... ✔
->> Injecting Firebase... ✔
->> Compiling TypeScript... ✔
->> Ready to deploy 🚀
+CharlyLizard@devstation:~$ <span style="color:#39ff14;">./launch.sh</span>
+<span style="color:#ff00cc;">>> Loading Astro... ✔</span>
+<span style="color:#00ffff;">>> Bootstrapping Spring... ✔</span>
+<span style="color:#ffff00;">>> Injecting Firebase... ✔</span>
+<span style="color:#ff6600;">>> Compiling TypeScript... ✔</span>
+<span style="color:#39ff14;">>> Ready to deploy 🚀</span>
 </pre>
 
-<h2>📡 Conecta conmigo</h2>
+---
 
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/carlos-mart%C3%ADn-salvatierra-275b45166/">LinkedIn</a></li>
-  <li>💻 <a href="https://github.com/CharlyLizard">GitHub</a></li>
-</ul>
+<h2 align="center">📡 Conecta conmigo</h2>
 
-<hr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-mart%C3%ADn-salvatierra-275b45166/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/CharlyLizard"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<blockquote>
+---
+
+<blockquote align="center">
   “La programación es como un buen videojuego: hay que superar errores, mejorar habilidades y disfrutar del viaje.”<br>
   — Carlos / CharlyLizard 👨‍💻
 </blockquote>
